@@ -5,7 +5,6 @@
 	"ignored_packages":
 	[
 		"Anaconda",
-		"Package Control",
 		"Vintage"
 	],
 	"rulers":
